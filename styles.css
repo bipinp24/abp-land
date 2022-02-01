@@ -29,8 +29,13 @@ html {
 }
 .hero h2 {
   position: absolute;
-  top: 8px;
-  left: 16px;
+  top: 30px;
+  left: 30px;
+}
+.hero p {
+  position: absolute;
+  top: 45px;
+  left: 45px;
 }
 
 .hero > div {
