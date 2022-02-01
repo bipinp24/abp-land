@@ -15,6 +15,12 @@ html {
   padding: 0;
 }
 
+.hero {
+  position: relative;
+  text-align: center;
+  color: white;
+} 
+
 .hero > div {
   max-width: 1024px;
   margin: 0 auto;
