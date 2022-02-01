@@ -13,6 +13,15 @@ main div.hero {
   height: 350px;
 }
 
+main div.hero > div:first-child {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100%;
+}
+
 html {
   font-family: adobe-clean, sans-serif;
 }
