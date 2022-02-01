@@ -15,10 +15,6 @@ html {
   padding: 0;
 }
 
-.hero {
-  background-color: #dc2626;
-  color: #f8fafc;
-}
 
 .hero > div {
   max-width: 1024px;
