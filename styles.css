@@ -6,11 +6,6 @@
   font-weight: 300;
 }
 
-main div.hero {
-  background: var(--spectrum-global-color-gray-50);
-  background-position: center;
-  background-size: cover;
-}
 
 main div.hero {
   position: relative;
@@ -23,10 +18,6 @@ main div.hero {
     overflow: auto;
     height: 100vh;
   }
-  main div.hero .spectrum-Heading--sizeXXL {
-    font-size: var(--spectrum-alias-heading-xl-text-size);
-  }
-}
 
 main div.hero > div:first-child {
   display: flex;
